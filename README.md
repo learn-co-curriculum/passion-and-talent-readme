@@ -10,7 +10,7 @@ lesson: passion and talent
 
 # HACKING PASSION
 
-#### From [Katrina Owen's blog](http://www.kytrinyx.com/) [Hacking Passion](http://www.kytrinyx.com/blog/hacking-passion)
+#### From [Katrina Owen's blog](http://www.kytrinyx.com/) titled ["Hacking Passion"](http://www.kytrinyx.com/blog/hacking-passion)
 
 I wanted to be extraordinary.
 
