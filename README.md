@@ -1,13 +1,3 @@
----
-tags: readme, passion, talent
-language: ruby
-resources: 1
-track: web development
-topic: introduction
-unit: flatiron's values
-lesson: passion and talent
----
-
 # HACKING PASSION
 
 #### From [Katrina Owen's blog](http://www.kytrinyx.com/) titled ["Hacking Passion"](http://www.kytrinyx.com/blog/hacking-passion)
