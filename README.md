@@ -1,4 +1,4 @@
-# HACKING PASSION
+# HACKING PASSIONate
 
 #### From [Katrina Owen's blog](http://www.kytrinyx.com/) titled ["Hacking Passion"](http://www.kytrinyx.com/blog/hacking-passion)
 
