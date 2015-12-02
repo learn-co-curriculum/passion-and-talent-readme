@@ -178,3 +178,5 @@ Talent is bullshit. Skill is cultivated. Passion is curated.
 Hacking skill *is* hacking passion.
 
 Don't do what you love. Do something well enough to love what you do.
+
+<a href='https://learn.co/lessons/passion-and-talent-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
