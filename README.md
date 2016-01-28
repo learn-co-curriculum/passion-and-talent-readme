@@ -179,4 +179,4 @@ Hacking skill *is* hacking passion.
 
 Don't do what you love. Do something well enough to love what you do.
 
-<a href='https://learn.co/lessons/passion-and-talent-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/passion-and-talent-readme' title='HACKING PASSION'>HACKING PASSION</a> on Learn.co and start learning to code for free.</p>
